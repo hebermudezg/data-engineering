@@ -5,13 +5,12 @@
 
 Data Engineering Learning Path
 ## 1. Foundations
-Programming: Master Python, widely used in data engineering tasks.
-Resources: Python official documentation, Python Crash Course book, Codecademy, LeetCode.
-Databases: Grasp the basics of relational databases (RDBMS) and SQL.
-Resources: SQLZoo, Mode Analytics SQL tutorial, "Database System Concepts" by Silberschatz, Korth, and Sudarshan.
+* Programming: Python, SQL
+* Resources: Python official documentation, LeetCode.
+
 ## 2. Big Data Technologies
-Hadoop Ecosystem: Understand HDFS, MapReduce, and YARN.
-Resources: Hadoop official documentation, TutorialsPoint, Udemy.
+* Hadoop Ecosystem: Understand HDFS, MapReduce, and YARN.
+
 Spark: Explore Spark Core, Spark SQL, and Spark Streaming.
 Resources: Spark official documentation, "Learning Spark" by O'Reilly, Coursera, Udacity.
 ## 3. Data Warehousing & ETL
