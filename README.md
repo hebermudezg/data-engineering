@@ -10,9 +10,8 @@ Data Engineering Learning Path
 
 ## 2. Big Data Technologies
 * Hadoop Ecosystem: Understand HDFS, MapReduce, and YARN.
+* Spark: Explore Spark Core, Spark SQL, and Spark Streaming.
 
-Spark: Explore Spark Core, Spark SQL, and Spark Streaming.
-Resources: Spark official documentation, "Learning Spark" by O'Reilly, Coursera, Udacity.
 ## 3. Data Warehousing & ETL
 Data Warehousing Concepts: Learn about facts, dimensions, star schema, and snowflake schema.
 Resources: "Data Warehouse Toolkit" by Kimball and Ross.
