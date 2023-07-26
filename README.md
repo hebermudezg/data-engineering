@@ -1,15 +1,7 @@
-# data-engineering
+# Data-Engineering
 
-- Distributed Computing : https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb
-
-
-Data Engineering Learning Path
-## 1. Foundations
-* Programming: Python, SQL
-* Resources: Python official documentation, LeetCode.
-
-## 2. Big Data Technologies
-* Hadoop Ecosystem: Understand HDFS, MapReduce, and YARN.
+## 1. Big Data Technologies
+* Distributed Computing: Hadoop, HDFS, MapReduce, YARN, Apache Spark https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb
 * Spark: Explore Spark Core, Spark SQL, and Spark Streaming.
 
 ## 3. Data Warehousing & ETL
