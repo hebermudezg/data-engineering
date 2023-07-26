@@ -1,8 +1,8 @@
 # Data-Engineering
 
 ## 1. Big Data Technologies
-* Distributed Computing: Hadoop, HDFS, MapReduce, YARN, Apache Spark https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb
-* Spark: Explore Spark Core, Spark SQL, and Spark Streaming.
+* [Distributed Computing: Hadoop, HDFS, MapReduce, YARN, Apache Spark](https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb)
+* PySpark
 
 ## 3. Data Warehousing & ETL
 Data Warehousing Concepts: Learn about facts, dimensions, star schema, and snowflake schema.
