@@ -3,6 +3,7 @@
 ## 1. Big Data Technologies
 * [Distributed Computing: Hadoop, HDFS, MapReduce, YARN, Apache Spark](https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb)
 * PySpark
+* Databricks
 
 ## 3. Data Warehousing & ETL
 Data Warehousing Concepts: Learn about facts, dimensions, star schema, and snowflake schema.
