@@ -61,3 +61,23 @@ Resources: "Designing Data-Intensive Applications" by Martin Kleppmann, online b
 Networking: Join communities, attend conferences, webinars.
 Project Management: Understand Agile methodologies, tools like JIRA.
 Communication: Enhance presentation and documentation skills.
+
+
+Data Engineering:
+
+Basic Programming: Python, Java or Scala
+Databases: SQL, NoSQL (e.g., MongoDB, Cassandra)
+Data Modeling: ER Diagrams, Normalization
+ETL Process: Tools like Talend, Apache Nifi
+Big Data Technologies: Hadoop, Spark
+Cloud Platforms: AWS, GCP, Azure
+Data Pipelines: Apache Airflow, Luigi
+Real-Time Processing: Kafka, Storm
+MLOps:
+
+Version Control: Git, GitHub Actions
+Continuous Integration/Deployment: Jenkins, CircleCI
+Containerization: Docker, Kubernetes
+Monitoring & Logging: Prometheus, ELK Stack
+Model Deployment: TensorFlow Serving, TorchServe
+Experiment Tracking: MLflow, TensorBoard
