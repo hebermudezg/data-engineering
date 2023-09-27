@@ -1,7 +1,7 @@
 # Data-Engineering
 
 ## 1. Big Data Technologies
-* [Distributed Computing: Hadoop, HDFS, MapReduce, YARN, Apache Spark](https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb)
+* [Introduction to distributed computing: Hadoop, HDFS, MapReduce, YARN, Apache Spark](https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb)
 * PySpark
 * Databricks
 
