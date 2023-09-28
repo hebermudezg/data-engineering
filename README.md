@@ -2,7 +2,7 @@
 
 ## 1. Big Data Technologies
 * [Introduction to distributed computing: Hadoop, Apache Spark](https://medium.com/@hebermudezg/data-engineering-2771dfbe42cb)
-* PySpark
+* [PySpark](https://medium.com/@hebermudezg/pyspark-b1bf4e00a50b)
 * Databricks
 
 ## 3. Data Warehousing & ETL
